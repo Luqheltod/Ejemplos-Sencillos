@@ -1,8 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
+
+/* Ejemplo sencillo en el que se crea un marco(ventana) y algunos metodos que pueden ser utiles a la hora de trabajar con el*/
+
 package InterfacesDeUsuario;
 import java.awt.Frame;
 import javax.swing.*;
@@ -35,8 +34,8 @@ class miMarco extends JFrame{
        
      //  setResizable(false);  //la ventana no se podra alargar o empequeñecer.
        
-      // setExtendedState(JFrame.MAXIMIZED_BOTH); //pantalla completa. 
+      // setExtendedState(JFrame.MAXIMIZED_BOTH); //pantalla completa. hay distintas opciones que pueden consultarse en la API de Java
       
-      setTitle("Ventana creada");
+      setTitle("Ventana creada"); // Titulo de la ventana.
     }
 }
