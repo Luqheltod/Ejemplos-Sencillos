@@ -1,4 +1,4 @@
-1. Escriba un programa que pida dos números enteros y escriba qué números son pares y
+#1. Escriba un programa que pida dos números enteros y escriba qué números son pares y
 cuáles impares desde el primero hasta el segundo.
 2. Escriba un programa que pregunte cuántos números se van a introducir, pida esos
 números, y muestre un mensaje cada vez que un número no sea mayor que el primero.
