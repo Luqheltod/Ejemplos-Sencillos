@@ -13,7 +13,7 @@ definidas)
 8. Dado un número entero indicar todos los números primos que hay entre 1 y ese
 número.
 9. Dibujar (carácter a carácter) lo siguiente:
-**********
+"**********"
 10. Dibujar (carácter a carácter) lo siguiente:
 *+*+*+*+*+
 11. Dibujar (carácter a carácter) lo siguiente:
