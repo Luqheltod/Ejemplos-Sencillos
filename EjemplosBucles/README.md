@@ -20,7 +20,7 @@ definidas)
 número.
 
 9. Dibujar (carácter a carácter) lo siguiente:
-**********
+"**********"
 
 10. Dibujar (carácter a carácter) lo siguiente:
 *+*+*+*+*+
