@@ -36,7 +36,7 @@ número.
   *****
 
 13. Dibujar (carácter a carácter) lo siguiente:
- *
+  *
  ***
  *****
  *******
