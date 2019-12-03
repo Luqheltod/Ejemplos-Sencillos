@@ -25,7 +25,12 @@ número.
 10. Dibujar (carácter a carácter) lo siguiente:
 *+*+*+*+*+
 
-11. Dibujar (carácter a carácter) lo siguiente:
+11. Dibujar (carácter a carácter) lo siguiente:Dibujar (carácter a carácter) lo siguiente:
+*
+**
+***
+****
+*****
 *+/*+/*+/*+/
 
 1. Escriba un programa que pida dos números enteros y escriba qué números son pares y
