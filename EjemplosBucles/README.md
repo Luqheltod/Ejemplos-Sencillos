@@ -42,10 +42,18 @@ cuáles impares desde el primero hasta el segundo.
 2. Escriba un programa que pregunte cuántos números se van a introducir, pida esos
 números, y muestre un mensaje cada vez que un número no sea mayor que el primero.
 
-3. Escriba un programa que pregunte cuántos números se van a introducir, pida esos
-números y escriba cuántos negativos ha introducido.
-1. Escriba un programa que pida dos números enteros y escriba qué números son pares y
-cuáles impares desde el primero hasta el segundo.
+3.12. Dibujar (carácter a carácter) lo siguiente:
+*
+**
+***
+****
+*****
+13. Dibujar (carácter a carácter) lo siguiente:
+*
+***
+*****
+*******
+*********a el segundo.
 
 2. Escriba un programa que pregunte cuántos números se van a introducir, pida esos
 números, y muestre un mensaje cada vez que un número no sea mayor que el primero.
