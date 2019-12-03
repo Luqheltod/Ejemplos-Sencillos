@@ -28,3 +28,15 @@ número.
 11. Dibujar (carácter a carácter) lo siguiente:
 *+/*+/*+/*+/
 
+12. Dibujar (carácter a carácter) lo siguiente:
+*
+**
+***
+****
+*****
+13. Dibujar (carácter a carácter) lo siguiente:
+*
+***
+*****
+*******
+*********
