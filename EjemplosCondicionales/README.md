@@ -8,7 +8,7 @@
 
 5. Pedir un número entre 0 y 9.999, decir si es capicúa.
 
-6. 25. Hacer un programa en C++ que ayude a una empresa a incrementar los salarios de
+6. Hacer un programa en C++ que ayude a una empresa a incrementar los salarios de
 los trabajadores de la siguiente manera (debes usar un switch y para el salario vamos a
 usar enteros):
 Tipo de salario %
