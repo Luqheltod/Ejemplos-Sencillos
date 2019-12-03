@@ -30,11 +30,11 @@ número.
 
 12. Dibujar (carácter a carácter) lo siguiente:
 
-"*"\n
-"**"\n
-"***"
-"****"
-"*****"
+asas"*"
+asas"**"
+asas"***"
+sfdasfd"****"
+fafa "*****"
 13. Dibujar (carácter a carácter) lo siguiente:
 "*"
 "***"
